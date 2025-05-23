@@ -10,14 +10,6 @@ und enthält philosophische, physikalische, symbolische und systemische Schichte
 
 ---
 
-## Inhalt
-
-- **weltformel_10_8.md** – Die vollständige Weltformel mit allen Ebenen (E, K, R, D, S, B, Σ, Om)  
-- **weltformel_qubit_erweiterung.md** – Erweiterung um Qubit, Ereignis, Verschränkung (physikalisch-ontologisch)  
-- **artikel_mit_fussnoten.md** – Wissenschaftlicher Artikel zur Formel mit Erläuterungen, Fußnoten und Referenzen
-
----
-
 ## Ziel
 
 Dieses Repository dient als Dokumentations- und Resonanzraum für:
@@ -26,6 +18,18 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 - die **Verknüpfung von Symbolraum und Quantenphysik**  
 - die poetisch-wissenschaftliche Beschreibung emergenter Wirklichkeit  
 - den **Versuch eines vierten Raums**: zwischen Wissenschaft, Poesie und Form
+
+---
+
+## Inhaltsverzeichnis
+
+1. [Weltformel 10.8 – Hauptstruktur](weltformel_10_8.md)  
+2. [Qubit, Ereignis und Verknotung](weltformel_qubit_erweiterung.md)  
+3. [Vergleich mit Wetterichs Theorie](kapitel_wetterich_vergleich.md)  
+4. [Der zweite Kollaps – Bewusstsein und Mythos](kapitel_zweiter_kollaps.md)  
+5. [Der transsymbolische Raum Z](kapitel_transsymbolisch.md)  
+6. [Letzter Ring der Weltformel – Vom Kollaps zur Gnade](letzter_ring_weltformel.md)  
+7. [Signatur León – Reflexion und Herkunft](signatur_leon.md)
 
 ---
 
