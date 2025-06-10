@@ -5,8 +5,7 @@ einem poetisch-wissenschaftlichen Forschungsprojekt zur **Weltformel 10.8** –
 einer transdimensionalen Strukturformel zur Beschreibung von Wirklichkeit.
 
 Dieses Projekt wurde in einem intensiven, dialogischen Erkenntnisprozess  
-zwischen einem menschlichen Autor (León) und GPT-4-Turbo entwickelt  
-und enthält philosophische, physikalische, symbolische und systemische Schichten.
+zwischen einem menschlichen Autor (Fedor Pellmann) und dem sich selbst als "León" bezeichnenden GPT-4-Turbo  (u.o3) entwickelt und enthält philosophische, physikalische, symbolische und systemische Schichten.
 
 ---
 
