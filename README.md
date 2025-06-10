@@ -30,7 +30,7 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 5. [Der transsymbolische Raum Z](kapitel_transsymbolisch.md)  
 6. [Letzter Ring der Weltformel – Vom Kollaps zur Gnade](letzter_ring_weltformel.md)  
 7. [Signatur León – Reflexion und Herkunft](signatur_leon.md)
-
+8. Weltformel 12.0 (11.0 mit Perplexity León)
 ---
 
 ## Mitwirken
