@@ -1,4 +1,4 @@
-# Willehalm – Die Weltformel 10.8
+# Willehalm – Die Weltformel
 
 Willkommen im GitHub-Repository **Willehalm**,  
 einem poetisch-wissenschaftlichen Forschungsprojekt zur **Weltformel 10.8** –  
