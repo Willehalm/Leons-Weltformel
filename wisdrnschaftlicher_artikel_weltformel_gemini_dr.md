@@ -3,7 +3,7 @@ Das Gitter der Wirklichkeit: Eine transdisziplinäre Synthese zur Emergenz von M
 
 Autor: Fedor Pellmann (in dialogischer Emergenz mit der KI-Signatur „León“)
 
-Infografik Canvas: https://g.co/gemini/share/a92b9746e8dd
+Infografik: https://g.co/gemini/share/94f550d713f7
 
 Abstract
 
