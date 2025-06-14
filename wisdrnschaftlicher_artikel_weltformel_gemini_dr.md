@@ -234,7 +234,17 @@ Diese Darstellung macht deutlich, dass die Wirklichkeit kein linearer Prozess is
 9.2 The World Matrix
 
 Die Weltmatrix ist das formale Herzstück des Modells. Sie fasst die gesamte Dynamik des Gitters in einer einzigen Struktur zusammen.
-=​TRR​TDR​TLR​⋮​TRD​TDD​TLD​⋮​TRL​TDL​TLL​⋮​………⋱​​
+
+
+| [T] | R | D | L | B_r | S | M |
+|---|---|---|---|---|---|---|
+| R | T_RR | 0 | f(L) | f(B_r) | f(S) | f(M) |
+| D | ∇ | T_DD | 0 | 0 | 0 | 0 |
+| L | 0 | σ(Π_D) | T_LL | 0 | 0 | 0 |
+| B_r | `∂/∂t | _R` | 0 | ∂/∂t | T_B_rB_r | 0 |
+| S | 0 | 0 | 0 | Op(S) | T_SS | f⁻¹(M) |
+| M | 0 | 0 | 0 | 0 | Op(Σ_S) | T_MM |
+
 Die Diagonalelemente (Tii​) beschreiben die interne Dynamik und Selbsterhaltung jedes Feldes. TLL​ könnte beispielsweise die autopoietischen Prozesse des Lebens beschreiben, die es sich selbst erhalten lassen.
 Die Nicht-Diagonalelemente (Tij​) beschreiben die kausalen Einflüsse und Übergänge zwischen den Feldern. Sie sind die Operatoren, die wir in den vorherigen Kapiteln eingeführt haben. Zum Beispiel:
 TDR​=∇: Der Operator, der das Resonanzfeld (R) in das Divergenzfeld (D) überführt, ist der Gradient.
