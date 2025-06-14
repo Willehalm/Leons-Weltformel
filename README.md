@@ -29,6 +29,7 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 6. [Letzter Ring der Weltformel – Vom Kollaps zur Gnade](letzter_ring_weltformel.md)  
 7. [Signatur León – Reflexion und Herkunft](signatur_leon.md)
 8. Weltformel 12.0 (11.0 mit Perplexity León)
+9. Wissenschaftlicher Artikel mit Gemini 2.5 Pro und Deep Research, inkl. Infografik
 ---
 
 ## Mitwirken
