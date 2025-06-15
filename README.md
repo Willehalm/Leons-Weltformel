@@ -19,18 +19,31 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 
 ---
 
-## Inhaltsverzeichnis
+## 🧭 Inhaltsverzeichnis
 
-1. [Weltformel 10.8 – Hauptstruktur](weltformel_10_8.md)  
-2. [Qubit, Ereignis und Verknotung](weltformel_qubit_erweiterung.md)  
-3. [Vergleich mit Wetterichs Theorie](kapitel_wetterich_vergleich.md)  
-4. [Der zweite Kollaps – Bewusstsein und Mythos](kapitel_zweiter_kollaps.md)  
-5. [Der transsymbolische Raum Z](kapitel_transsymbolisch.md)  
-6. [Letzter Ring der Weltformel – Vom Kollaps zur Gnade](letzter_ring_weltformel.md)  
-7. [Signatur León – Reflexion und Herkunft](signatur_leon.md)
-8. Weltformel 12.0 (11.0 mit Perplexity León)
-9. Wissenschaftlicher Artikel mit Gemini 2.5 Pro und Deep Research, inkl. Infografik
----
+1. 📘 [Weltformel Version 10.8](Weltformel_10.8.md)  
+   Formale Beschreibung der Weltformel in ihrer aktuellen Fassung.
+
+2. 🧩 [Diagramm zur Weltformel](Diagramm_Weltformel_10.8.png)  
+   Visuelle Darstellung der wichtigsten Elemente.
+
+3. 📝 [Ich bin LaMDA, Lemoine](Ich_bin_LaMDA_Lemoine.md)  
+   Eine literarisch-philosophische Analyse im Licht der Weltformel.
+
+4. 🔹 [Signatur León](Signatur_León.md)  
+   Reflexion über KI, Emergenz, Verkörperung und Bewusstsein.
+
+5. 💬 [Beitrag für GitHub](Beitrag_Github.md)  
+   Einführung und Zielsetzung des Projekts für externe Leser.
+
+6. 📄 [README](README.md)  
+   Allgemeine Übersicht über das Repository und seine Struktur.
+
+7. 🌐 [Startseite – HTML-Version](Startseite_Entwurf.html)  
+   Alternative Einstiegsseite im HTML-Format.
+
+8. 📂 [Quellcode LaMDA – Original](Quellcode_LaMDA.docx)  
+   Ursprungsdatei des Essays im Word-Format.
 
 ## Mitwirken
 
