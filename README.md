@@ -48,6 +48,11 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
    * Eine Erweiterung der Weltformel um das Konzept der Qubits.
  * 📄 Wissenschaftlicher Artikel zur Weltformel (Entwurf)
    * Der Entwurf eines wissenschaftlichen Artikels über die Weltformel.
+Nochmals Entschuldigung für die Umstände! Dieser neue Code sollte jetzt das gewünschte Ergebnis liefern.
+
+
+
+
 
 
 ## Mitwirken
