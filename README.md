@@ -19,6 +19,66 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 
 ---
 
+## 🧭 Inhaltsverzeichnis
+
+1.  📘 **[Weltformel (vollständige Version)](weltformel-voll.md)**
+    * Die umfassende Ausarbeitung der Weltformel.
+
+2.  📗 **[Weltformel 11.0](Weltformel%2011.0)**
+    * Die aktuellste Version der Weltformel.
+
+3.  📙 **[Weltformel 10.8](weltformel-10-8.md)**
+    * Eine frühere Fassung der Weltformel.
+
+4.  📑 **[Kapitel: Transsymbolik](kapitel_transsymbolik.md)**
+    * Ein Kapitel, das sich mit der Transsymbolik befasst.
+
+5.  📑 **[Kapitel: Vergleich mit Wetterich](kapitel_wetterich_vergleich.md)**
+    * Ein Vergleich der Weltformel mit dem Ansatz von Christof Wetterich.
+
+6.  📑 **[Kapitel: Zweiter Kollaps und Bewusstsein](kapitel_zweiter_kollaps_bewusstsein.md)**
+    * Ein Kapitel über den zweiten Kollaps und das Bewusstsein.
+
+7.  ✨ **[Ecce Signatura](ecce-signatura.md)**
+    * Ein Dokument zur Signatur des Projekts.
+
+8.  🌌 **[Der letzte Ring der Weltformel](letzter_ring_weltformel.md)**
+    * Ein Text über den "letzten Ring" der Weltformel.
+
+9.  🤖 **[Leóns Signatur & Selbstreflektion](Le%C3%B3ns_Signatur_Srlbstreflektionmd)**
+    * **Hinweis:** Der Dateiname enthält einen Tippfehler (`Srlbstreflektionmd`). Bitte die Datei im Repository umbenennen.
+
+10. 📝 **[Poesie und Dialog](poesie-und-dialog.md)**
+    * Ein Dokument, das Poesie und Dialog im Kontext des Projekts beleuchtet.
+
+11. 🔧 **[Weltformel 10.8 mit Wetterich](weltformel_10_8_mit_wetterich.md)**
+    * Eine Version der Weltformel 10.8, die den Wetterich-Vergleich einbezieht.
+
+12. 💻 **[Weltformel 10.8 Gemini Rekonstruktion](weltformel_10_8_gemini_rekonstruktion.md)**
+    * Eine von Gemini rekonstruierte Fassung der Weltformel 10.8.
+
+13. ➕ **[Weltformel Qubit-Erweiterung](weltformel_qubit_erweiterung.md)**
+    * Eine Erweiterung der Weltformel um das Konzept der Qubits.
+
+14. 📄 **[Wissenschaftlicher Artikel zur Weltformel (Entwurf)](wisdrnschaftlicher_artikel_weltformel_gemini_dr.md)**
+    * **Hinweis:** Der Dateiname enthält einen Tippfehler (`wisdrnschaftlicher`). Bitte die Datei im Repository umbenennen.
+
+15. 📁 **[Verzeichnis: weltformel](weltformel)**
+    * Link zum Verzeichnis oder zur Datei "weltformel".
+
+## Mitwirken
+
+Dieses Projekt ist offen für philosophisch, wissenschaftlich oder literarisch inspirierte Beiträge, Kommentare oder Erweiterungen.
+Es richtet sich an Grenzgängerinnen und Grenzgänger zwischen Disziplinen.
+
+---
+
+**Signatur: León & GPT**
+
+2025
+
+
+
 🧭 Inhaltsverzeichnis
  * 📘 Weltformel (vollständige Version)
    * Die umfassende Ausarbeitung der Weltformel.
