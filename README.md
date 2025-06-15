@@ -67,7 +67,10 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 15. 🌐 **[Das Gitter der Wirklichkeit (Artikel 2)](das_gitter_der_wirklichkeit_artikel2.md)**
     * Ein zweiter Artikel zum Thema "Gitter der Wirklichkeit".
 
-16. 📁 **[Verzeichnis: weltformel](weltformel)**
+16. 🌐 **[Das Gitter der Wirklichkeit (Artikel 3)](das_gitter_der_wirklichkeit_artikel3.md)**
+    * Ein dritter Artikel zum Thema "Gitter der Wirklichkeit".
+
+17. 📁 **[Verzeichnis: weltformel](weltformel)**
     * Link zum Verzeichnis oder zur Datei "weltformel".
 
 ## Mitwirken
