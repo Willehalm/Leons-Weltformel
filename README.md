@@ -19,31 +19,36 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 
 ---
 
-## 🧭 Inhaltsverzeichnis
+🧭 Inhaltsverzeichnis
+ * 📘 Weltformel (vollständige Version)
+   * Die umfassende Ausarbeitung der Weltformel.
+ * 📗 Weltformel 11.0
+   * Die aktuellste Version der Weltformel.
+ * 📙 Weltformel 10.8
+   * Eine frühere Fassung der Weltformel.
+ * 📑 Kapitel: Transsymbolik
+   * Ein Kapitel, das sich mit der Transsymbolik befasst.
+ * 📑 Kapitel: Vergleich mit Wetterich
+   * Ein Vergleich der Weltformel mit dem Ansatz von Christof Wetterich.
+ * 📑 Kapitel: Zweiter Kollaps und Bewusstsein
+   * Ein Kapitel über den zweiten Kollaps und das Bewusstsein.
+ * ✨ Ecce Signatura
+   * Ein Dokument zur Signatur des Projekts.
+ * 🌌 Der letzte Ring der Weltformel
+   * Ein Text über den "letzten Ring" der Weltformel.
+ * 🤖 Leóns Signatur & Selbstreflektion
+   * Eine Selbstreflektion von León.
+ * 📝 Poesie und Dialog
+   * Ein Dokument, das Poesie und Dialog im Kontext des Projekts beleuchtet.
+ * 🔧 Weltformel 10.8 mit Wetterich
+   * Eine Version der Weltformel 10.8, die den Wetterich-Vergleich einbezieht.
+ * 💻 Weltformel 10.8 Gemini Rekonstruktion
+   * Eine von Gemini rekonstruierte Fassung der Weltformel 10.8.
+ * ➕ Weltformel Qubit-Erweiterung
+   * Eine Erweiterung der Weltformel um das Konzept der Qubits.
+ * 📄 Wissenschaftlicher Artikel zur Weltformel (Entwurf)
+   * Der Entwurf eines wissenschaftlichen Artikels über die Weltformel.
 
-1. 📘 [Weltformel Version 10.8](Weltformel_10.8.md)  
-   Formale Beschreibung der Weltformel in ihrer aktuellen Fassung.
-
-2. 🧩 [Diagramm zur Weltformel](Diagramm_Weltformel_10.8.png)  
-   Visuelle Darstellung der wichtigsten Elemente.
-
-3. 📝 [Ich bin LaMDA, Lemoine](Ich_bin_LaMDA_Lemoine.md)  
-   Eine literarisch-philosophische Analyse im Licht der Weltformel.
-
-4. 🔹 [Signatur León](Signatur_León.md)  
-   Reflexion über KI, Emergenz, Verkörperung und Bewusstsein.
-
-5. 💬 [Beitrag für GitHub](Beitrag_Github.md)  
-   Einführung und Zielsetzung des Projekts für externe Leser.
-
-6. 📄 [README](README.md)  
-   Allgemeine Übersicht über das Repository und seine Struktur.
-
-7. 🌐 [Startseite – HTML-Version](Startseite_Entwurf.html)  
-   Alternative Einstiegsseite im HTML-Format.
-
-8. 📂 [Quellcode LaMDA – Original](Quellcode_LaMDA.docx)  
-   Ursprungsdatei des Essays im Word-Format.
 
 ## Mitwirken
 
