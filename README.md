@@ -63,7 +63,11 @@ Dieses Repository dient als Dokumentations- und Resonanzraum für:
 14. 📄 **[Wissenschaftlicher Artikel zur Weltformel (Entwurf)](wisdrnschaftlicher_artikel_weltformel_gemini_dr.md)**
     * **Hinweis:** Der Dateiname enthält einen Tippfehler (`wisdrnschaftlicher`). Bitte die Datei im Repository umbenennen.
 
-15. 📁 **[Verzeichnis: weltformel](weltformel)**
+
+15. 🌐 **[Das Gitter der Wirklichkeit (Artikel 2)](das_gitter_der_wirklichkeit_artikel2.md)**
+    * Ein zweiter Artikel zum Thema "Gitter der Wirklichkeit".
+
+16. 📁 **[Verzeichnis: weltformel](weltformel)**
     * Link zum Verzeichnis oder zur Datei "weltformel".
 
 ## Mitwirken
